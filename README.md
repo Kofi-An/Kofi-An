@@ -32,7 +32,7 @@ Based in Accra, Ghana · Open to remote work globally
 
 | Project | Description | Stack |
 |---|---|---|
-| [Credit Risk Scorecard](https://github.com/username/credit-risk-scorecard) | Basel II PD model on LendingClub data — 87% AUC | Python · scikit-learn · Plotly |
+| [Credit Risk Scorecard](https://github.com/username/credit-risk-scorecard) | Basel II PD model on LendingClub data, 87% AUC | Python · scikit-learn · Plotly |
 | [Portfolio Risk Dashboard](https://github.com/username/portfolio-risk-dashboard) | Live VaR, CVaR & Sharpe ratio app | Python · Streamlit · yfinance |
 | [Macro Intelligence Dashboard](https://github.com/username/macro-dashboard) | 15 indicators across 10 countries | FRED API · Tableau Public |
 
