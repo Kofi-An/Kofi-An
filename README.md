@@ -32,9 +32,9 @@ Based in Accra, Ghana · Open to remote work globally
 
 | Project | Description | Stack |
 |---|---|---|
-| [Credit Risk Scorecard](https://github.com/username/credit-risk-scorecard) | Basel II PD model on LendingClub data, 87% AUC | Python · scikit-learn · Plotly |
-| [Portfolio Risk Dashboard](https://github.com/username/portfolio-risk-dashboard) | Live VaR, CVaR & Sharpe ratio app | Python · Streamlit · yfinance |
-| [Macro Intelligence Dashboard](https://github.com/username/macro-dashboard) | 15 indicators across 10 countries | FRED API · Tableau Public |
+| [Credit Risk Scorecard](https://github.com/Kofi-An/credit-risk-scorecard) | Basel II PD model on LendingClub data, 87% AUC | Python · scikit-learn · Plotly |
+| [Portfolio Risk Dashboard](https://github.com/Kofi-An/portfolio-risk-dashboard) | Live VaR, CVaR & Sharpe ratio app | Python · Streamlit · yfinance |
+| [Macro Intelligence Dashboard](https://github.com/Kofi-An/macro-dashboard) | 15 indicators across 10 countries | FRED API · Tableau Public |
 
 ---
 
@@ -42,6 +42,6 @@ Based in Accra, Ghana · Open to remote work globally
 
 I'm actively seeking **remote roles** in quantitative risk, financial data science, and BI analytics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Kaggle](https://img.shields.io/badge/Kaggle-085041?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=flat&logo=github&logoColor=white)](https://yourname.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kfam88)
+[![Kaggle](https://img.shields.io/badge/Kaggle-085041?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/worlanyoanku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=flat&logo=github&logoColor=white)](https://Kofin-An.github.io)
