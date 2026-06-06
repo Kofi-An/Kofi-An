@@ -44,4 +44,4 @@ I'm actively seeking **remote roles** in quantitative risk, financial data scien
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kfam88)
 [![Kaggle](https://img.shields.io/badge/Kaggle-085041?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/worlanyoanku)
-[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=flat&logo=github&logoColor=white)](https://Kofin-An.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=flat&logo=github&logoColor=white)](https://github.com/Kofin-An.github.io)
